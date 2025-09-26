@@ -35,5 +35,5 @@ Google Colab
 
 ## 👤 Author
 
-**Your Name** ✨\
-[GitHub](https://github.com/Bittu85) \|
+Shashi ✨\
+[GitHub](https://github.com/Shashi88-coder) \|
